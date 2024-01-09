@@ -1,0 +1,78 @@
+.banner{
+    background-image: url(./resources/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    /* opacity: 90%; */
+    height: 600px;
+    margin: 0 auto;
+    width: 1320px;
+    /* padding: 0px 140px; */
+    /* align-items: center; */
+    /* background-size: cover; */
+}
+.banner-container{
+    text-align: center;
+    display: block;
+    
+}
+.banner-head{
+    color: white;
+    font-size: 30px;
+    font-weight: 400;
+    padding-top: 200px;
+    
+}
+.new-party{
+    color: #FFF;
+
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 42px;
+    font-weight: 900;
+    line-height: 0px;
+
+}
+.happy-new-year{
+    text-align: center;
+}
+.discount{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 68px;
+line-height: 0px;
+font-weight: 500;
+}
+.holyday{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: 0px;
+}
+.category{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+line-height: 0px;
+}
+.photo{
+    width: 600px;
+    height: 500px;
+}
+.party{
+    background-image: url(./resources/Vectorrr.png );
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin: 0 auto;
+    height: 600px;
+    width: 1320px;
+
+}
